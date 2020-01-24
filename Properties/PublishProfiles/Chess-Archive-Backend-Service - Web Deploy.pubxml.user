@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzUhkKPrSok2RMEsMzXikwAAAAAACAAAAAAAQZgAAAAEAACAAAACxy5AMBIa/6B7iBIIbzvuxZN/pYvCLlVosNZgMjoBrgAAAAAAOgAAAAAIAACAAAACJh1EJI9G6hxKR8S0VxNXLlKLctWwHtCAX17KFv0hcw4AAAACim5S4DN5QMsR47LlC0QrBs1bvIEzsfD8qaXg60lmruhPRn5aG+93uPAK313p8batfwr6VW6n+KpBOMUWeJgdo3hFtnDPfUmjwqMSstRPHtQhim08xvCECXOweq0GSSbDeG1BD3sbaEaJQJyvxNTqM5jg0oe/Orhwh+lAr2Ikl10AAAAD1bqsZgFjWmTKsU6CM4g9pYVqDDn0IQFsbTZfcwMrF+fumC8TsdRuV91a8CXzjTgTi0nsXv0bX3lz021CPGON7</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ChessBackendDBConnection">
+      <Value>Data Source=tcp:chess-archive-backend-db-server.database.windows.net,1433%3bInitial Catalog=Chess-Archive-Backend-DB%3bUser Id=Chess-Archive-Admin%40chess-archive-backend-db-server%3bPassword=EAcNQGaFu9DYvQ,,%40l2%28l</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ChessBackend.Data.AppDbContext">
+      <Value>Data Source=tcp:chess-archive-backend-db-server.database.windows.net,1433%3bInitial Catalog=Chess-Archive-Backend-DB%3bUser Id=Chess-Archive-Admin%40chess-archive-backend-db-server%3bPassword=EAcNQGaFu9DYvQ,,%40l2%28l</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
