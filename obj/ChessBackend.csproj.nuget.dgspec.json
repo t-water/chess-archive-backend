@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\source\\repos\\ChessBackend\\ChessBackend.csproj": {}
+    "C:\\Users\\Tyler\\source\\repos\\ChessBackend_Real\\ChessBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\source\\repos\\ChessBackend\\ChessBackend.csproj": {
+    "C:\\Users\\Tyler\\source\\repos\\ChessBackend_Real\\ChessBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ChessBackend\\ChessBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ChessBackend_Real\\ChessBackend.csproj",
         "projectName": "ChessBackend",
-        "projectPath": "C:\\Users\\Tyler\\source\\repos\\ChessBackend\\ChessBackend.csproj",
+        "projectPath": "C:\\Users\\Tyler\\source\\repos\\ChessBackend_Real\\ChessBackend.csproj",
         "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\source\\repos\\ChessBackend\\obj\\",
+        "outputPath": "C:\\Users\\Tyler\\source\\repos\\ChessBackend_Real\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

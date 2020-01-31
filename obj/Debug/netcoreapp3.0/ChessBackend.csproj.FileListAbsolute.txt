@@ -155,5 +155,5 @@ C:\Users\Tyler\source\repos\ChessBackend\bin\Debug\netcoreapp3.0\Microsoft.AspNe
 C:\Users\Tyler\source\repos\ChessBackend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Tyler\source\repos\ChessBackend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Tyler\source\repos\ChessBackend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Tyler\source\repos\ChessBackend\obj\Debug\netcoreapp3.0\ChessBackend.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Tyler\source\repos\ChessBackend\obj\Debug\netcoreapp3.0\Razor\Views\Pgn\Edit.cshtml.g.cs
+C:\Users\Tyler\source\repos\ChessBackend\obj\Debug\netcoreapp3.0\ChessBackend.MvcApplicationPartsAssemblyInfo.cache
